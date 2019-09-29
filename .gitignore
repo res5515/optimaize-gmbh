@@ -1,0 +1,9 @@
+.idea
+activemq-data
+target
+out
+*.iml
+*.class
+simpletexting-core-1.0.jar
+*.log
+
